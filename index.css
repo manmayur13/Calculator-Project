@@ -1,0 +1,38 @@
+#calculator{
+    border: 3px solid black;
+    height: 370px;
+    width: 200px;
+    margin-top: 100px;
+    margin-left: 300px;
+    background-color:lightcyan;
+}
+#display{
+    margin: 10px 15px;
+    border: 2px solid black;
+    height: 30px;
+    
+    
+    
+
+}
+button{
+    height: 40px;
+    width: 40px;
+    font-size: 20px;
+    
+    border: 1px solid black;
+    color: black;
+    border-radius: 10px;
+    background-color: darkkhaki;
+    
+}
+.btn{
+    margin-left: 35px;
+    margin-top: 5px;
+    
+}
+#last-btns{
+    margin-left: 60px;
+}
+
+/* one by one do the things in css and its easy to do that */
